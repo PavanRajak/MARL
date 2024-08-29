@@ -1,5 +1,5 @@
 # MARL assignment 1
-Questins[MARL - Assignment-1.pdf](https://github.com/user-attachments/files/16798023/MARL.-.Assignment-1.pdf)
+Questions[MARL - Assignment-1.pdf](https://github.com/user-attachments/files/16798023/MARL.-.Assignment-1.pdf)
 # Results 
 Que 1
 Optimal Values and Policy With Value Iteration
